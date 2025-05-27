@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+nltk==3.8.1
+textblob==0.18.0
+gradio==4.26.0
+regex==2024.5.15
+dateparser==1.2.0
+matplotlib==3.8.4
+seaborn==0.13.2
+beautifulsoup4==4.12.2  

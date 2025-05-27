@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python interactive history
+.python_history
+
+# Environment variables or secrets
+.env
+*.env
+
+# Model files
+models/
+*.pkl
+*.joblib
+
+# Dataset output cache
+*.csv
+*.xlsx
+
+# Gradio cache
+gradio_cached_examples/
+
+# VSCode Python workspace settings
+*.code-workspace
