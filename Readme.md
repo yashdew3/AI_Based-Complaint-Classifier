@@ -56,6 +56,7 @@ Customer support teams handle thousands of tickets daily. Manually classifying a
 │   └── app.py
 │ 
 ├── .gitignore
+├── LICENSE
 ├── requirements.txt
 └── README.md
 ```
