@@ -8,4 +8,9 @@ regex==2024.5.15
 dateparser==1.2.0
 matplotlib==3.8.4
 seaborn==0.13.2
-beautifulsoup4==4.12.2  
+beautifulsoup4==4.12.2
+requests==2.32.3
+# Additional dependencies for specific tasks
+spacy==3.7.0
+spacy-transformers==1.2.0
+spacy-lookups-data==1.0.4
