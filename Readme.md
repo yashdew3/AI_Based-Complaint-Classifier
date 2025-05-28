@@ -68,7 +68,7 @@ Customer support teams handle thousands of tickets daily. Manually classifying a
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/yashdew3/AI_Based-Complaint-Classifier.git
-cd ticket_classifier_project
+cd ai_based_complaint_classifier
 ```
 
 ### 2. Install the dependencies:
